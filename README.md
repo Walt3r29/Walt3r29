@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Walter Pérez
 
-<!--
-**Walt3r29/Walt3r29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **QA Tester** based in the United Kingdom 🇬🇧  
+Currently focused on **Manual and Automated Testing** for web applications and APIs.
 
-Here are some ideas to get you started:
+![Cypress](https://img.shields.io/badge/Cypress-Testing-brightgreen)
+![Postman](https://img.shields.io/badge/Postman-API--Testing-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
+![Scrum](https://img.shields.io/badge/Scrum-Agile-blue)
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech Stack & Tools
+- 🧪 Cypress, Postman, Katalon Recorder
+- 📋 Jira, TestRail, Excel (Test Case Management)
+- 💻 JavaScript (Basic), Node.js, Visual Studio Code
+- 🧠 Agile/Scrum methodology
+
+---
+
+## 🔍 What I Do
+- Write and execute test cases manually and with automation tools.
+- Test APIs using Postman and validate responses.
+- Automate front-end tests with Cypress.
+- Report bugs and collaborate with developers in an agile team.
+
+---
+
+## 🚀 Projects
+I’m currently working on personal QA testing projects to demonstrate my skills.  
+Stay tuned as I upload test cases, test plans, and automation examples here soon.
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Walt3r29&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contact
+- 💼 LinkedIn: *(coming soon)*
+- 📧 Email: [your.email@example.com] *(replace with yours)*
+
+---
+
+🌟 *Always learning, always improving. Let's build better software together!*
