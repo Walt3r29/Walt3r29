@@ -39,8 +39,8 @@ Stay tuned as I upload test cases, test plans, and automation examples here soon
 ---
 
 ## 📫 Contact
-- 💼 LinkedIn: *(https://www.linkedin.com/in/walter-alexis-p%C3%A9rez-castillo-90a722378/)*
-- 📧 Email: [waltera2b@gmail.com]
+- 💼 LinkedIn: https://www.linkedin.com/in/walter-alexis-p%C3%A9rez-castillo-90a722378/
+- 📧 Email: waltera2b@gmail.com
 
 ---
 
